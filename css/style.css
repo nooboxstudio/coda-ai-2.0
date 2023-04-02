@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+main{
+    padding: 0px 20px 0px 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
